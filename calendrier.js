@@ -1,1 +1,1 @@
-var link = "http://www.lycee-tripoli.edu.lb/wp-content/uploads/2016/10/Calendrier-2016-2017-Definitif.pdf";
+var link = "https://touficbatache.github.io/LyceeLamartine_2.0/Calendrier-2016-2017-Definitif-1.png";
