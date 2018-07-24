@@ -16,51 +16,61 @@
 {
   "id" : "calendrier",
   "title" : "Calendrier",
+  "chrometabs" : null,
   "imagelink" : "https://touficbatache.github.io/LyceeLamartine_2.0/calendrier-actuel.png",
   "imagename" : "calendrier.png"
 },
 {
   "id" : "brevet",
   "title" : "Brevet",
+  "chrometabs" : null,
   "inapp" : "ml.toufic.lyceelamartine.BrevetActivity"
 },
 {
   "id" : "menucafeteria",
   "title" : "Menu cafeteria",
+  "chrometabs" : null,
   "inapp" : "ml.toufic.lyceelamartine.CafeteriaActivity"
 },
 {
   "id" : "nouvellesinfos",
   "title" : "Nouvelles infos",
+  "chrometabs" : null,
   "inapp" : "ml.toufic.lyceelamartine.NouvellesInfosActivity"
 },
 {
   "id" : "contacts",
   "title" : "Contacts",
+  "chrometabs" : null,
   "inapp" : "ml.toufic.lyceelamartine.ContactsActivity"
 },
 {
   "id" : "emplacement",
   "title" : "Emplacement",
+  "chrometabs" : null,
   "inapp" : "ml.toufic.lyceelamartine.EmplacementActivity"
 },
 {
   "id" : "fournitures",
   "title" : "Fournitures",
+  "chrometabs" : null,
   "inapp" : "ml.toufic.lyceelamartine.FournituresActivity"
 },
 {
   "id" : "garderie",
   "title" : "Garderie",
+  "chrometabs" : null,
   "chrometabs" : "http://www.lycee-tripoli.edu.lb/category/la-garderie/"
 },
 {
   "id" : "outlook",
   "title" : "Outlook",
+  "chrometabs" : null,
   "chrometabs" : "https://mail.lycee-tripoli.edu.lb/owa"
 },
 {
   "id" : "recrutement",
   "title" : "recrutement",
+  "chrometabs" : null,
   "chrometabs" : "http://www.lycee-tripoli.edu.lb/recrutement/"
 }]
