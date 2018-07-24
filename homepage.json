@@ -47,7 +47,6 @@
 {
   "id" : "fournitures",
   "title" : "Fournitures",
-  "chrometabs" : null,
   "inapp" : "ml.toufic.lyceelamartine.FournituresActivity"
 },
 {
